@@ -11,7 +11,7 @@
     "PREFIX":
     {
       "description":"choose your prefix for your bot",
-      "value":".",
+      "value":"#",
       "required":true
     },
 "AUTO_REACT":
@@ -65,7 +65,7 @@
     "AUTO_READ":
     {
       "description":"Your contact  will be reading messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false   
       },
      "PM_PERMIT" :
@@ -78,14 +78,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"𓆩ု𝐉𝐄𝐋𝐈𝐎_𝐒𝐓𝐀𝐑𝐑-𝐌𝐃ှ᪳𓆪",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/h2ydge.jpg",
+      "value":"https://i.ibb.co/Kp1MSP7s/thumb.jpg",
       "required":false
        
      },
@@ -109,7 +109,7 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":"256766238915",
     "required":true
       
     },
@@ -118,7 +118,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝐉𝐄𝐋𝐈𝐎 𝐒𝐓𝐀𝐑𝐑 𝐃𝐄𝐕"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
@@ -139,7 +139,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"online",
     "required": false
   },
   "ANTIDELETE" : {
